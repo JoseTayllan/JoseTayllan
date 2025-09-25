@@ -153,6 +153,8 @@ Me chamo José Tayllan Pinto Almeida, tenho 20 anos e sou natural de Barra do Co
 
 Atualmente estou focado em aprofundar meus conhecimentos nas seguintes tecnologias e ferramentas emergentes:
 
+ - 🅰️ Angular – Framework TypeScript para construção de aplicações web robustas, escaláveis e baseadas em componentes, com suporte nativo a SPA, injeção de dependência, roteamento e ferramentas integradas para desenvolvimento corporativo.;
+- 🧪 **Next.js** – Framework React para aplicações web otimizadas e server-side rendering;
 - 🧪 **Next.js** – Framework React para aplicações web otimizadas e server-side rendering;
 - 🎨 **Tailwind CSS** – Utilitário de estilos CSS moderno e altamente customizável;
 - 📦 **Prisma ORM** – Manipulação avançada de banco de dados com foco em produtividade;
