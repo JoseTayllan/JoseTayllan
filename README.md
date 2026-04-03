@@ -1,187 +1,88 @@
-# 🧑🏾‍💻 José Tayllan
+<h1 align="center">👨‍💻 José Tayllan</h1>
+<h3 align="center">Desenvolvedor Back-end | .NET | Node.js | Engenharia de Software</h3>
 
-**`Desenvolvedora FullStack`**
-
-Me chamo José Tayllan Pinto Almeida, tenho 20 anos e sou natural de Barra do Corda – MA. Concluí o ensino médio no CPMG-PXT. Atualmente, sou formado em GTI - Gestão da Tecnologia da Informação, com ênfase em Inteligência Artificial e análise de dados (dataset) pela FPM - Faculdade de Princípios Militares. Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos, estudando continuamente sobre novas ferramentas e inovações. Procuro obter certificações e especializações na área, visando constante aprimoramento profissional.
-
-<p align="left">
-  
- <a href="https://github.com/JoseTayllan?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JoseTayllan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/JoseTayllan?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JoseTayllan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Construindo+sistemas+escaláveis;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<!--<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>-->
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<!--<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>-->
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Node.Js" 
-    title="Node.Js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="MySql" 
-    title="MySql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
-<br/>
-
-<br/>
- 🧠 Estudando Atualmente
-
-Atualmente estou focado em aprofundar meus conhecimentos nas seguintes tecnologias e ferramentas emergentes:
-
- - 🅰️ Angular – Framework TypeScript para construção de aplicações web robustas, escaláveis e baseadas em componentes, com suporte nativo a SPA, injeção de dependência, roteamento e ferramentas integradas para desenvolvimento corporativo.;
-- 🧪 **Next.js** – Framework React para aplicações web otimizadas e server-side rendering;
-- 🧪 **Next.js** – Framework React para aplicações web otimizadas e server-side rendering;
-- 🎨 **Tailwind CSS** – Utilitário de estilos CSS moderno e altamente customizável;
-- 📦 **Prisma ORM** – Manipulação avançada de banco de dados com foco em produtividade;
-- ☁️ **Vercel** – Deploy e hospedagem de aplicações fullstack;
-- 📊 **PostgreSQL** – Banco de dados relacional robusto e moderno;
-- 🤖 **Chatbots com IA** – Aplicações com IA generativa integradas com interfaces web;
-- 🧩 **Node.Js** – Fundamentos e aprimorando conhecimento.
--  **Laravel** – Fundamentos e aprimorando conhecimento.
--  **Fast API** – criar APIs de forma rápida, eficiente e com menos bugs.
+💡 Desenvolvedor focado em backend e arquitetura de sistemas  
+📚 Estudante de Engenharia de Software  
+🔥 Curto resolver problemas complexos e criar soluções eficientes  
+🎯 Foco atual: APIs robustas, microsserviços e boas práticas  
 
 ---
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoseTayllan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🛠️ Tecnologias
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTayllan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 💻 Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
+### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 Sistema BarberApp
+📌 API completa para gerenciamento de barbearia  
+🛠️ Tecnologias: .NET, EF Core, PostgreSQL  
+📈 Foco: Arquitetura limpa e escalabilidade  
+
+---
+
+### 🔹 Sistema de Engenharia de Requisitos
+📌 Modelagem UML + DER + documentação formal  
+🛠️ Engenharia de Software aplicada na prática  
+
+---
+
+## 📫 Contato
+
+📧 Email: seuemail@email.com  
+💼 LinkedIn: https://linkedin.com/in/seu-link  
+🐙 GitHub: https://github.com/SEU_USERNAME  
+
+---
+
+## ⚡ Frase que me define
+
+> "Código limpo não é só estética, é respeito com quem vai manter."
+
+---
