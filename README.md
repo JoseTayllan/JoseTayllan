@@ -1,88 +1,111 @@
-<h1 align="center">👨‍💻 José Tayllan</h1>
-<h3 align="center">Desenvolvedor Back-end | .NET | Node.js | Engenharia de Software</h3>
+# 🚀 José Tayllan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Construindo+sistemas+escaláveis;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+.NET+%7C+Python;Integração+de+Dados+%26+IA;Arquiteturas+Escaláveis+🚀" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/JoseTayllan">
+    <img src="https://img.shields.io/github/followers/JoseTayllan?label=Followers&style=for-the-badge&color=0D1117" />
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 Sobre mim
 
-💡 Desenvolvedor focado em backend e arquitetura de sistemas  
-📚 Estudante de Engenharia de Software  
-🔥 Curto resolver problemas complexos e criar soluções eficientes  
-🎯 Foco atual: APIs robustas, microsserviços e boas práticas  
+Desenvolvedor Backend | Especialista em Integração de Dados & IA  
 
----
+Desenvolvedor com foco em soluções de alta performance utilizando **.NET (C#)** e **Python**. Especialista na construção de arquiteturas escaláveis e na implementação de modelos de **Machine Learning** para automação de processos de negócio.  
 
-## 🛠️ Tecnologias
+Com sólido domínio de **SQL e NoSQL**, atuo na criação de **APIs robustas** e possuo vivência em ambientes **Full Stack (React / Next.js)**.  
 
-### 💻 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+Diferencio-me pela capacidade de traduzir requisitos técnicos em produtos funcionais, unindo o rigor analítico da minha formação em **Inteligência Artificial** com as melhores práticas de desenvolvimento de software.  
 
-### 🗄️ Banco de Dados
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+🚀 Pronto para atuar em times ágeis e contribuir imediatamente para a escalabilidade de produtos digitais.  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Stack Tecnológica
+
+### 🚀 Backend
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+
+### 🗄️ Dados & IA
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
+![SQL Server](https://img.shields.io/badge/SQLServer-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+### ⚙️ Frontend & Ferramentas
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoseTayllan&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTayllan&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseTayllan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseTayllan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </p>
 
 ---
 
-## 🔥 Streak de Contribuições
+## 🔥 Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseTayllan&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=JoseTayllan&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 📈 Gráfico de Atividade
+## 📈 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseTayllan&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseTayllan&theme=tokyo-night&bg_color=0d1117&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Foco Profissional
 
-### 🔹 Sistema BarberApp
-📌 API completa para gerenciamento de barbearia  
-🛠️ Tecnologias: .NET, EF Core, PostgreSQL  
-📈 Foco: Arquitetura limpa e escalabilidade  
-
----
-
-### 🔹 Sistema de Engenharia de Requisitos
-📌 Modelagem UML + DER + documentação formal  
-🛠️ Engenharia de Software aplicada na prática  
+✔️ Desenvolvimento de APIs escaláveis  
+✔️ Integração de sistemas e dados  
+✔️ Aplicação de IA em problemas reais  
+✔️ Arquitetura limpa e boas práticas  
+✔️ Performance e otimização  
 
 ---
 
-## 📫 Contato
+## 🧩 Filosofia de Engenharia
+
+```
+Código limpo é obrigação.
+Escalabilidade é requisito.
+Performance é diferencial.
+```
+
+---
+
+## 🌐 Contato
 
 📧 Email: seuemail@email.com  
 💼 LinkedIn: https://linkedin.com/in/seu-link  
-🐙 GitHub: https://github.com/SEU_USERNAME  
+🐙 GitHub: https://github.com/JoseTayllan  
 
 ---
 
-## ⚡ Frase que me define
+## ⚡ Mindset
 
-> "Código limpo não é só estética, é respeito com quem vai manter."
+> "Não construo apenas código. Construo soluções que escalam."
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=120&section=footer"/>
+</p>
